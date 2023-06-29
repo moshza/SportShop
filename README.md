@@ -7,3 +7,7 @@ the views in the client side is written in ejs files.
 user details for login:
 e-mail: "mo@test.com"
 password: 2222
+
+link to the website(deployed by render.com):
+
+https://sport-shop-nodejs.onrender.com
