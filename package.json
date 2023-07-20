@@ -22,7 +22,7 @@
     "csrf": "^3.1.0",
     "csrf-csrf": "^2.2.3",
     "csurf": "^1.11.0",
-    "ejs": "^2.6.1",
+    "ejs": "^3.1.7",
     "express": "^4.16.3",
     "express-handlebars": "^3.0.0",
     "express-session": "^1.17.3",
